@@ -30,11 +30,21 @@ public class Profile {
 
 ## 🌐 Socials
 
-[```javascript
-const socials = {
-  leetcode: "https://leetcode.com/u/Champx15/",
-}
-```](https://leetcode.com/u/Champx15/)
+<a href="https://leetcode.com/u/Champx15/">
+  <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=flat-square&logo=leetcode&logoColor=white" />
+</a>
+<a href="https://github.com/Champx15">
+  <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/Champx15/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/Champx15">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.codechef.com/users/Champx15">
+  <img src="https://img.shields.io/badge/CodeChef-%23EF6C00.svg?style=flat-square&logo=codechef&logoColor=white" />
+</a>
 
 
 ```cpp
