@@ -1,9 +1,8 @@
-# Champ
 
 ```typescript
 const profile = {
   name: "Champ",
-  bio: "Developer who loves coding",
+  bio: "born loser",
   skills: [
     "HTML5",
     "CSS3",
