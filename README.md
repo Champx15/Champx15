@@ -53,9 +53,6 @@ console.log("Let's connect and collaborate!!");
 
 process.exit(0); // Adios!!!
 ```
-# 🐍 Snake Eating My Stats
-
-Check out my GitHub Snake:
 
 <img src="https://raw.githubusercontent.com/champx15/champx15/output/snake.svg" alt="Snake animation" />
 
