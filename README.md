@@ -1,17 +1,9 @@
 
-```typescript
-const profile = {
-  name: "Champ",
-  bio: "born loser",
-  skills: [
-    "HTML5",
-    "CSS3",
-    "Spring",
-    "MySQL",
-    "Java",
-    "C",
-    "C++"
-  ],
+```java
+public class Profile {
+    String name = "Champ";
+    String bio = "born loser";
+    String[] skills = {"HTML5", "CSS3", "Spring", "MySQL", "Java", "C", "C++"};
 }
 ```
 
@@ -47,12 +39,16 @@ const socials = {
 <a href="https://leetcode.com/u/Champx15/"><img src="https://img.shields.io/badge/leetcode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a> 
 </div>
 
-```typescript
-// Thanks for visiting my profile!
-console.log("Let's connect and collaborate!!");
+```cpp
+#include <iostream>
+#include <cstdlib>
+using namespact std;
 
-process.exit(0); // Adios!!!
+int main() {
+    cout << "Thanks for visiting my profile!" <<endl;
+    cout << "Let's connect and collaborate!!" <<endl;
+    exit(0); // Adios!!!
+}
 ```
-
 <img src="https://raw.githubusercontent.com/champx15/champx15/output/snake.svg" alt="Snake animation" />
 
