@@ -31,20 +31,21 @@ public class Profile {
 ## 🌐 Socials
 
 <a href="https://leetcode.com/u/Champx15/">
-  <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=flat-square&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LeetCode-000000?style=flat-square&logo=leetcode&logoColor=white" />
 </a>
 <a href="https://github.com/Champx15">
-  <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/Champx15/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/Champx15">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
 </a>
 <a href="https://www.codechef.com/users/Champx15">
-  <img src="https://img.shields.io/badge/CodeChef-%23EF6C00.svg?style=flat-square&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CodeChef-EF6C00?style=flat-square&logo=codechef&logoColor=white" />
 </a>
+
 
 
 ```cpp
