@@ -21,9 +21,12 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
-          palette: github-dark
+          palette: "#0d1117,#a0f,#0f0"   # background, snake head (purple), snake body (green)
           targets: "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&hide=prs,issues,stars"
-          update_interval: 500
+          cell_size: 8         # size of each square
+          update_interval: 600 # slower movement: 600ms per frame
+          snake_length: 20
+          grid_size: 30        # number of cells horizontally/vertically
 
       - name: Push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
