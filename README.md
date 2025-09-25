@@ -29,12 +29,15 @@ public class Profile {
 ```
 
 ## 🌐 Socials
+
 ```javascript
 const socials = {
   leetcode: "https://leetcode.com/u/Champx15/",
 }
 ```
 <div> <a href="https://leetcode.com/u/Champx15/"><img src="https://img.shields.io/badge/leetcode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a> </div>
+
+## 💬 A Message from Me
 
 ```cpp
 #include <iostream>
