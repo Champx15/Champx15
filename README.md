@@ -1,3 +1,4 @@
+## About Me ✨
 
 ```java
 public class Profile {
@@ -41,14 +42,13 @@ const socials = {
 
 ```cpp
 #include <iostream>
-#include <cstdlib>
-using namespact std;
 
 int main() {
-    cout << "Thanks for visiting my profile!" <<endl;
-    cout << "Let's connect and collaborate!!" <<endl;
-    exit(0); // Adios!!!
+    std::cout << "Thanks for visiting my profile!" << std::endl;
+    std::cout << "Let's connect and collaborate!!" << std::endl;
+    return 0; // Adios!!!
 }
+
 ```
 <img src="https://raw.githubusercontent.com/champx15/champx15/output/snake.svg" alt="Snake animation" />
 
