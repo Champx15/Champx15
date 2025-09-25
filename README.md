@@ -30,21 +30,24 @@ public class Profile {
 
 ## 🌐 Socials
 
+## 🌐 Socials
+
 <a href="https://leetcode.com/u/Champx15/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" width="40" height="40" style="margin-right:10px; fill:#FFA116"/>
 </a>
 <a href="https://github.com/Champx15">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="40" height="40" style="margin-right:10px; fill:#181717"/>
 </a>
 <a href="https://www.linkedin.com/in/Champx15/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="margin-right:10px; fill:#0A66C2"/>
 </a>
 <a href="https://twitter.com/Champx15">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="40" height="40" style="margin-right:10px; fill:#1DA1F2"/>
 </a>
 <a href="https://www.codechef.com/users/Champx15">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" alt="CodeChef" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" alt="CodeChef" width="40" height="40" style="margin-right:10px; fill:#EF6C00"/>
 </a>
+
 
 
 
