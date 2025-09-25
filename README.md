@@ -57,5 +57,5 @@ process.exit(0); // Adios!!!
 
 Check out my GitHub Snake:
 
-![Snake animation](https://github.com/<your-username>/champx15/blob/output/snake.svg)
+![Snake animation](https://github.com/champx15/champx15/blob/output/snake.svg)
 
