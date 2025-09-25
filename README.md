@@ -49,7 +49,13 @@ const socials = {
 
 ```typescript
 // Thanks for visiting my profile!
-console.log("Let's connect and collaborate on exciting projects!");
+console.log("Let's connect and collaborate!!");
 
-process.exit(0); // Until next time 👋
+process.exit(0); // Adios!!!
 ```
+# 🐍 Snake Eating My Stats
+
+Check out my GitHub Snake:
+
+![Snake animation](https://github.com/<your-username>/champx15/blob/output/snake.svg)
+
