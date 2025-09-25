@@ -29,28 +29,11 @@ public class Profile {
 ```
 
 ## 🌐 Socials
-
-## 🌐 Socials
-
-<a href="https://leetcode.com/u/Champx15/">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
-</a>
-<a href="https://github.com/Champx15">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/Champx15/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://twitter.com/Champx15">
-  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="https://www.codechef.com/users/Champx15">
-  <img src="https://img.shields.io/badge/-CodeChef-EF6C00?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" />
-</a>
-
-
-
-
+javascript
+const socials = {
+  leetcode: "https://leetcode.com/u/Champx15/",
+}
+<div> <a href="https://leetcode.com/u/Champx15/"><img src="https://img.shields.io/badge/leetcode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a> </div>
 
 ```cpp
 #include <iostream>
