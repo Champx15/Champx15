@@ -3,8 +3,8 @@
 ```java
 public class Profile {
     String name = "Champ";
-    String bio = "born loser";
-    String[] skills = {"HTML5", "CSS3", "Spring", "MySQL", "Java", "C", "C++"};
+    String bio = "Let It Happen!!!";
+    String[] skills = {"HTML5", "CSS3", "React", "Spring", "MySQL", "Java", "C", "C++"};
 }
 ```
 
